@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # trial-project-review
-A review of my project completed during the Admissions Trial.
+A code-review of my project completed during the Admissions Trial.
 
 ## Built With
 
